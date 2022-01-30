@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-#### A Telegram robot can clone medias from any chat to your own chat.<br>
+#### A  Telegram robot can clone medias from any chat to your own chat.<br>
 `Read the documentation to know how to use the bot`
 <br>
 <br>
